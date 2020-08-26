@@ -52,10 +52,10 @@ java -jar target/SS.com-1.0-SNAPSHOT-jar-with-dependencies.jar \
 --chromeLin or --chromeWin {path to driver}
 --lang {site language "currently working for English"}
 ```
+---
 or you can run:   `src/main/java/com/app/evolutionGaming/framework/main/TestNGRunner.java`  
 Test files are stored in:   
-`src/main/java/com/app/evolutionGaming/tests/`  
----
+`src/main/java/com/app/evolutionGaming/tests/` 
 
 ## Logging
 Log4j logging is used in TAF.
