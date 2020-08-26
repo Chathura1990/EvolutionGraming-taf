@@ -17,7 +17,7 @@ Test Automation Framework provides the ability to automate UI tests for SS.com.
 List of supported browsers could be extended by implementing driver initialization in `BrowserInstance`:
 
 ```java
-public class BrowserInstance {
+public class ApplicationManager {
     public void init() {
             switch (Parameters.instance().getBrowser()) {
                 case FIREFOX:
