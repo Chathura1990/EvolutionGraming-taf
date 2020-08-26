@@ -8,7 +8,7 @@ Test Automation Framework provides the ability to automate UI tests for SS.com.
 - Selenium WebDriver
 - Maven
 - Lombok
--JCommander
+- JCommander
 
 ## Browser Support
 1. **Chrome** *(used by default)*
